@@ -7,9 +7,9 @@
 </h3>
 
 <p align="center">
-<a href=mailto:shivanicdedhia@gmail.com target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg alt="mailshivani" height="20" width="20" /></a>
-<a href=https://www.linkedin.com/in/shivanidedhia/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="shivanilinkedin" height="20" width="20" /></a>
-<a href=https://shivanidedhia.github.io/shivanidedhia.github.io./ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg alt="shivaniswebpage" height="20" width="20" /></a>
+<a href=mailto:akshita.jain@baruchmail.cuny.edu target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg alt="mailakshita" height="20" width="20" /></a>
+<a href=https:// linkedin.com/in/akshitajain28 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="akshitalinkedin" height="20" width="20" /></a>
+
 </p>
 <p>
 
