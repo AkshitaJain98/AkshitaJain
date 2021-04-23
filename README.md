@@ -13,8 +13,8 @@
 </p>
 <p>
 
-- 👷‍ I’m currently a Graduate student at Baruch, Zicklin School of Business. This upcoming Summer 2021 I am looking for a Business Analyst Internship
+- 👷‍ I’m currently a Graduate student at Baruch, Zicklin School of Business pursuing Masters in Business Analytics. This upcoming Summer 2021 I am looking for a Business Analyst Internship
 
-- 💬 Ask me about my internships, change from finance to analytics, my projects, or anything else
+- 💬 Ask me about my internships, my projects, or anything else
 
 </p>
