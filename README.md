@@ -1,12 +1,9 @@
 # AkshitaJain
-<h1 align="center">Hi, It's Shivani </h1>
+<h1 align="center">Hello, it's Akshita </h1>
 
 <h3 align="center"> Business Analytics @ 
 	<a href=https://zicklin.baruch.cuny.edu/ target="blank"> Baruch, Zicklin School of Business 
-	</a>, Bachelors in Fashion Business Management @ <a href=https://www.fitnyc.edu/ target="blank"> F.I.T </a>, Worked @ 
-	<a href=https://www.coach.com/ target="blank">Coach</a>, 
-	<a href=https://www.katespade.com/ target="blank">Kate Spade</a>, 
-	<a href=https://usa.tommy.com/en/ target="blank">Tommy Hilfiger</a>
+	</a>, Bachelors in Business Administration  @ <a href=https://	ahduni.edu.in/ target="blank"> Ahmedabad University </a>,
 </h3>
 
 <p align="center">
