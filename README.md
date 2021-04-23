@@ -3,7 +3,7 @@
 
 <h3 align="center"> Business Analytics @ 
 	<a href=https://zicklin.baruch.cuny.edu/ target="blank"> Baruch, Zicklin School of Business 
-	</a>, Bachelors in Business Administration  @ <a href=https://	ahduni.edu.in/ target="blank"> Ahmedabad University </a>,
+	</a>, Bachelors in Business Administration  @ <a href=https://	ahduni.edu.in/ target="blank"> Ahmedabad University </a>
 </h3>
 
 <p align="center">
